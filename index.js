@@ -109,3 +109,5 @@ client.on('messageDelete', function (message, channel) {
         image: message.attachments.first() ? message.attachments.first().proxyURL : null
     })
 })
+
+client.login("MTM0ODE4OTk5MjU5NzMyMzc4Nw.GmOS_t.rdcYL4M4k04L1uQ5qdcqpkhHE1WgC5JSpPR1Ug");
